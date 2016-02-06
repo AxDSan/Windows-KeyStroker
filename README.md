@@ -1,11 +1,11 @@
 GNU General Public License v2.0
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+         Program Name: Windows Keystroker			           +
-+			    Version:	    1.0							                   +
-+			    Description:  Shows Keyboard Keystrokes		       +
-+						           in Real-time.         		           +
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    +         Program Name: Windows Keystroker			           +
+    +			    Version:	    1.0							                   +
+    +			    Description:  Shows Keyboard Keystrokes		       +
+    +						           in Real-time.         		           +
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Copyright (c) 2016 John Smith "0x90"
 
