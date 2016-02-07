@@ -23,6 +23,7 @@
 
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QFontMetrics>
 
 int main(int argc, char *argv[])
 {
